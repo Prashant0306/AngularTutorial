@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Angular test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prashant Upadhyay",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
